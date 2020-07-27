@@ -43,6 +43,19 @@ public class Flujo_ForEach48 {
 		System.out.println("Dia de la semana: "+string);
 		
 	}
+	System.out.println("-------------------");
+
+	// 4.11
+	System.out.println("Practica 4.11 foreach");
+	System.out.println("-------------------");
+	
+	String Cadena = "BootCamp 2020";
+	
+	for (char c: Cadena.toCharArray ()) { System.out.println (c); }
+		
+	System.out.println(Cadena.charAt(0));
+		
+		
+	}
 	
 	}
-}

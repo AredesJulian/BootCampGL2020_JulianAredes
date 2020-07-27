@@ -72,11 +72,7 @@ public class Practica_4_Flujos_Main {
 		
 		each48.main();
 	
-		System.out.println("-------------------");
-
-		// 4.11
-		System.out.println("Practica 4.11 foreach");
-		System.out.println("-------------------");
+	
 
 		
 	}
